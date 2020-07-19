@@ -1,0 +1,64 @@
+{
+  "name": "Cycle",
+  "components": [
+    {
+      "name": "Frame",
+      "price": 10.0,
+      "components": []
+    },
+    {
+      "name": "Wheels",
+      "price": 10.0,
+      "components": [
+        {
+          "name": "Tyre",
+          "price": 10.0,
+          "components": []
+        },
+        {
+          "name": "Tube",
+          "price": 10.0,
+          "components": []
+        },
+        {
+          "name": "Rim",
+          "price": 10.0,
+          "components": []
+        }
+      ]
+    },
+    {
+      "name": "Handle",
+      "price": 10.0,
+      "components": [
+        {
+          "name": "Breaks",
+          "price": 10.0,
+          "components": []
+        }
+      ]
+    },
+    {
+      "name": "Chain",
+      "price": 10.0,
+      "components": [
+        {
+          "name": "Spokes",
+          "price": 10.0,
+          "components": []
+        }
+      ]
+    },
+    {
+      "name": "Seat",
+      "price": 10.0,
+      "components": [
+        {
+          "name": "Cover",
+          "price": 10.0,
+          "components": []
+        }
+      ]
+    }
+  ]
+}
